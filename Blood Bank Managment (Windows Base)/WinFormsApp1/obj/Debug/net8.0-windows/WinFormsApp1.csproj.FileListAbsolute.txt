@@ -65,3 +65,7 @@ C:\Users\NEAMUL\Desktop\Data Sta\nirob\repos\Bloodbank\WinFormsApp1\obj\Debug\ne
 C:\Users\NEAMUL\Desktop\Data Sta\nirob\repos\Bloodbank\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
 C:\Users\NEAMUL\Desktop\Data Sta\nirob\repos\Bloodbank\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
 C:\Users\NEAMUL\Desktop\Data Sta\nirob\repos\Bloodbank\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+D:\CSE-SDP-200\Blood Bank Managment (Windows Base)\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+D:\CSE-SDP-200\Blood Bank Managment (Windows Base)\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+D:\CSE-SDP-200\Blood Bank Managment (Windows Base)\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+D:\CSE-SDP-200\Blood Bank Managment (Windows Base)\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
